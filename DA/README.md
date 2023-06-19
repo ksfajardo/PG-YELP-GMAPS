@@ -34,19 +34,19 @@ Al monitorear estos KPIs a través del dashboard interactivo, los empresarios pu
 
 ## **Alcance**
 
-**`Transformación de datos`**🔃✨
+**`Transformación de datos`** 🔃✨
 
 Realizado en el notebook `DA - Preprocesamiento` en Colab, en el mismo se procedió a eliminar registros que quedaron erróneamente dentro de la categoría restaurantes, completar los tres filtros definidos en la totalidad de los datos y a crear columnas con valores discretos de la información de cada restaurante.
-En los datos provenientes de Google Maps y Yelp se procedió a extraer de la columna `subcategory` las categorías de los restaurantes establecidas en una función, el resultado se refleja en la columna `rest_category`. Adicionalmente, se crearon crearon las columnas `abierto` y `service`, las cuales reflejan los días abiertos en la semana y los servicios ofrecidos (*dine-in*, *delivery*, *takeout*), valores extríados de las columnas `hours`, `MISC` (Google) y `attributes` (Yelp). Por último, en el caso de Yelp, se creó una columna `price` que refleja el valor monetario relativo de cada restaurante, valores provenientes de la columna `attributes`.
+En los datos provenientes de Google Maps y Yelp se procedió a extraer de la columna *`subcategory`* las categorías de los restaurantes establecidas en una función, el resultado se refleja en la columna *`rest_category`*. Adicionalmente, se crearon crearon las columnas *`abierto`* y *`service`*, las cuales reflejan los días abiertos en la semana y los servicios ofrecidos (*dine-in*, *delivery*, *takeout*), valores extríados de las columnas *`hours`*, *`MISC`* (Google) y *`attributes`* (Yelp). Por último, en el caso de Yelp, se creó una columna *`price`* que refleja el valor monetario relativo de cada restaurante, valores provenientes de la columna *`attributes`*.
 
-Como información adicional, en la tabla *`metadata`* se crearon dos columnas: `comment_2019` y `comment_2021`, las cuales indican si en el restaurante correspondiente hubo al menos una calificación en el año correspondiente (indicado con 0 y 1).
+Como información adicional, en la tabla *`metadata`* y *`business`* se crearon dos columnas: *`comment_2019`* y *`comment_2021`*, las cuales indican si en el restaurante correspondiente hubo al menos una calificación en el año correspondiente (indicado con 0 y 1).
 
-**`Análisis Exploratorio de Datos (_EDA_)`**🔍📊📉
+**`Análisis Exploratorio de Datos (EDA)`** 🔍📊📉
 
 El `EDA` se realizó en un notebook de Deepnote utilizando las libreías pandas, matplotlib y seaborn.
 
 
-**`Dashboard`**👨🏽‍💼👩‍💼💻📊
+**`Dashboard`** 👨🏽‍💼👩‍💼💻📊
 
 El dashboard se realizó en `Power BI`. El mismo contiene filtros temporales, por categoría de restaurante, por tipo de servicio ofrecido y, en el caso de Yelp, por tipo de precio. El dashboard muestra los `KPIs` previamente definidos, así como gráficas de barras, de línea, mapas y otros, que ayudan al entendimiento de los valores y variaciones de las variables definidas.
 
@@ -54,14 +54,16 @@ El dashboard se realizó en `Power BI`. El mismo contiene filtros temporales, po
 
 ## **Stack Tecnológico**
 
-- Colab
-- Python
-- Power BI
-- Visual studio code
 - Big Query
+- Python
+- Colab
+- Visual studio code
 - Deepnote
+- Power BI
 
-<img src="src/vsc_logo.png" width="150"/><img src="src/python_logo.png" width="150"/>
+<img src="src/google_bigquery.png" width="150"/>
+<img src="src/python_logo.png" width="150"/><img src="src/colab_logo.png" width="100"/><img src="src/vsc_logo.png" width="150"/><img src="src/deepnote_logo.png" width="170"/>
+<img src="src/power_bi_logo.png" width="150"/>
 
 <br/>
 
