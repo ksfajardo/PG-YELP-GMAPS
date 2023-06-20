@@ -11,14 +11,13 @@
     <li><a href="#Contexto">Contexto</a></li>
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Alcance">Alcance</a></li>
-    <li><a href="##Transformación de datos">Transformación de datos</a></li>
-    <li><a href="##Análisis Exploratorio de Datos (EDA)">EDA</a></li>
-    <li><a href="##Dashboard">Dashboard</a></li>
-    <li><a href="#Stack Tecnológico">Stack Tecnológico</a></li>
-    <li><a href="#Disclaimer">Disclaimer</a></li>
+    <li><a href="#transformación-de-datos-">Transformación de datos</a></li>
+    <li><a href="#análisis-exploratorio-de-datos-eda-">EDA</a></li>
+    <li><a href="#dashboard-">Dashboard</a></li>
+    <li><a href="#stack-tecnológico">Stack Tecnológico</a></li>
+    <li><a href="#warning-disclaimer">Disclaimer</a></li>
   </ol>
 </details>
-
 
 ## Contexto
 
@@ -34,7 +33,7 @@ Las bases de datos disponibilizadas en Big Query son GMaps, Places API y Yelp. L
 
 <br/>
 
-## **Objetivo**
+## Objetivo
 
 La presente etapa tiene como objetivo desarrollar un dashboard interactivo que permita a los empresarios explorar los datos y extraer información relevante sobre los restaurantes.
 
@@ -50,7 +49,7 @@ Al monitorear estos KPIs a través del dashboard interactivo, los empresarios pu
 
 <br/>
 
-## **Alcance**
+## Alcance
 
 ### **`Transformación de datos`** 🔃✨
 
