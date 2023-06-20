@@ -86,15 +86,11 @@ El dashboard se realizó en `Power BI`. El mismo contiene filtros temporales, po
 
 ## Stack Tecnológico
 
-- Big Query
-- Python
-- Colab
-- Deepnote
-- Power BI
-
-<img src="src/google_bigquery.png" width="150"/>
-<img src="src/python_logo.png" width="150"/><img src="src/colab_logo.png" width="100"/><img src="src/deepnote_logo.png" width="170"/>
-<img src="src/power_bi_logo.png" width="150"/>
+[<img src="src/google_bigquery.png" width="150"/>](https://cloud.google.com/bigquery)
+[<img src="src/python_logo.png" width="150"/>](https://www.python.org/)
+[<img src="src/colab_logo.png" width="100"/>](https://colab.research.google.com/)
+[<img src="src/deepnote_logo.png" width="170"/>](https://deepnote.com/)
+[<img src="src/power_bi_logo.png" width="150"/>](https://powerbi.microsoft.com/)
 
 <br/>
 
