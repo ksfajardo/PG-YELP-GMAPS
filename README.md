@@ -59,6 +59,7 @@ Análisis de definición de alcance: [Link](https://github.com/ksfajardo/PG-YELP
 ## Pipeline
 ![Pipeline](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/Pipeline%20PGfondo.png)
 
+- Diccionario de datos: [Link diccionario](https://docs.google.com/spreadsheets/d/1E0B0LYUlOoxMaXuXUV6i2kzVYoTtiZaH/edit?usp=sharing&ouid=110626938180094444619&rtpof=true&sd=true)
 - Preprocesamiento de datasets más pesados y con errores: los datasets más grandes de yelp fueron fraccionados para más fácil procesamiento y prevención de errores - [Link Preprocesamiento](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/ConversionArchivosParquet.ipynb)
 - ETL de datasets Google Maps y Yelp: Proceso de extracción, transformación y carga de datos del Data Lake al Data Warehouse - [Link ETL Google Maps y Yelp](https://github.com/ksfajardo/PG-YELP-GMAPS/tree/main/GMaps_Yelp_ETL)
 - ETL de nuevos datos de la API de Google Places: Obtención de nuevas fuentes de datos para complementar la información - [Link ETL API Places](https://github.com/ksfajardo/PG-YELP-GMAPS/tree/main/ETL%20API%20Places)
