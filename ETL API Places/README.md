@@ -37,7 +37,7 @@ El archivo csv que resulta de la Cloud Function, se almacena en el Data Lake en 
 ![storageapi](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/storageapiplaces.png)
 
 ## ETL automatizado con Cloud Functions
-Como la información del csv se encuentra un poco desordenada y con algunas columnas anidadas, se desarrolló otra función en Cloud Functions(ETL_API_places) que se ejecuta cada vez que en el bucket respectivo se crea o modifica algún archivo y que se encarga de desanidar y cargar al Data Warehouse la información estructurada en sus respectivas tablas. 
+Como la información del csv se encuentra un poco desordenada y con algunas columnas anidadas, se desarrolló otra función en Cloud Functions(API_ETL) que se ejecuta cada vez que en el bucket respectivo se crea o modifica algún archivo y que se encarga de desanidar y cargar al Data Warehouse la información estructurada en sus respectivas tablas. 
 
 ![etlapi](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/etlapidata.png)
 
