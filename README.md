@@ -66,46 +66,46 @@ Análisis de definición de alcance: [Link](https://github.com/ksfajardo/PG-YELP
 - Desarrollo de sistema de recomendación: Desarrollo de sistema de recomendación para usuarios de la plataforma Yelp y deploy como una API - [Link desarrollo de sistema de recomendación](https://github.com/ksfajardo/PG-YELP-GMAPS/tree/main/ML%20Model%20-%20API),
 	[Link deploy sistema de recomendación](https://yelp-rec-api-62b3ffvyva-uc.a.run.app)
   
-  ## Desarrolladores
-  Pulsando sobre el nombre de cualquier integrante, serás redirigido a su respectivo perfil de Linkedin. 
+## Desarrolladores
+Pulsando sobre el nombre de cualquier integrante, serás redirigido a su respectivo perfil de Linkedin. 
   
-  </br>
+</br>
   
-  <div align="center">
+<div align="center">
   
-  Data Engineering y Data Science:
-  | [<img src="https://avatars.githubusercontent.com/u/104804355?s=400&u=7c7592e2239f0ef414c4a3c5a61920ab19c9d980&v=4" width=115><br><sub>Karla Fajardo</sub>](https://www.linkedin.com/in/karla-fajardo-3b3020175/) | [<img src="https://avatars.githubusercontent.com/u/120281993?v=4" width=115><br><sub>Ariel Romero</sub>](https://www.linkedin.com/in/ariel-w-romero-a72514222/) |
+Data Engineering y Data Science:
+| [<img src="https://avatars.githubusercontent.com/u/104804355?s=400&u=7c7592e2239f0ef414c4a3c5a61920ab19c9d980&v=4" width=115><br><sub>Karla Fajardo</sub>](https://www.linkedin.com/in/karla-fajardo-3b3020175/) | [<img src="https://avatars.githubusercontent.com/u/120281993?v=4" width=115><br><sub>Ariel Romero</sub>](https://www.linkedin.com/in/ariel-w-romero-a72514222/) |
   | :---: | :---: | 
   
-  </div>
+</div>
 
-  <div align="center">
+<div align="center">
 
-  </br>
+</br>
   
-  Data Analysis:
-  | [<img src="https://avatars.githubusercontent.com/u/95049464?v=4" width=115><br><sub>Paola Barrera</sub>](https://www.linkedin.com/in/pvbarrera93/) | [<img src="https://avatars.githubusercontent.com/u/95032482?v=4" width=115><br><sub>Mirta Julio</sub>](https://www.linkedin.com/in/mirta-gladys-julio-616895b/) | [<img src="https://avatars.githubusercontent.com/u/116127944?v=4" width=115><br><sub>Juan David Reyes</sub>](https://www.linkedin.com/in/juan-david-reyes-burbano-546a38262/) |
+Data Analysis:
+| [<img src="https://avatars.githubusercontent.com/u/95049464?v=4" width=115><br><sub>Paola Barrera</sub>](https://www.linkedin.com/in/pvbarrera93/) | [<img src="https://avatars.githubusercontent.com/u/95032482?v=4" width=115><br><sub>Mirta Julio</sub>](https://www.linkedin.com/in/mirta-gladys-julio-616895b/) | [<img src="https://avatars.githubusercontent.com/u/116127944?v=4" width=115><br><sub>Juan David Reyes</sub>](https://www.linkedin.com/in/juan-david-reyes-burbano-546a38262/) |
   | :---: | :---: | :---: |
   
-  </div>
+</div>
 
-  ## Metodología
+## Metodología
   
-  <div align="center">
+<div align="center">
   
-  Diagrama de Gantt
+Diagrama de Gantt
   
-  ![gant](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/Gantt.png)
+![gant](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/Gantt.png)
 
-  </div>
+</div>
   
-  </br>
+</br>
   
-  <div align="center">
+<div align="center">
   
-  Diagrama Metodología SCRUM
+Diagrama Metodología SCRUM
   
-  ![scrum](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/WhatsApp%20Image%202023-06-20%20at%208.37.31%20PM.jpeg)
+![scrum](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/src/WhatsApp%20Image%202023-06-20%20at%208.37.31%20PM.jpeg)
 
-  </div>
+</div>
   
